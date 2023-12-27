@@ -4,15 +4,14 @@
     font-family: 'Noto Sans JP', sans-serif;
 }
 body{
-  background-color: cyan;
+  background-color: #F875A3;
     width:100vw;
     height:100vh;
 }
 .title{
   font-size:24px;
-  color: red;
+  color: #ffffff;
 }
 .texts{
-  background-color: red;
-  color: cyan;
+  color: #ff0000;
 }
